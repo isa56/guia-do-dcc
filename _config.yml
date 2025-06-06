@@ -2,7 +2,40 @@ title: Guia do DCC
 description: Tudo que você precisa saber sobre o DCC da UFJF, com dicas e explicações que vão te ajudar a se adaptar ao curso.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://isa56.github.io/guia-do-dcc/
+repository: isa56/guia-do-dcc
+
+permalink: pretty
+
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Nosso Repositorio: https://isa56.github.io/guia-do-dcc/
+  Site do DCC: https://www2.ufjf.br/deptocomputacao/
+
+aux_links_new_tab: true
+
+search_enabled: true
+
+color_scheme: dark
+
+# Footer content
+# appears at the bottom of every page's main content
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
+markup / liquid-based content.
+footer_content: "Copyright &copy; 2025 Isadora Gonçalves. Distribuído por <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a> Baseado no <a href=\"https://github.com/just-the-docs/just-the-docs\">Just The Docs.</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%e de %b, %Y às %k:%M" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Contribua com essa página no GitHub."
+gh_edit_repository: "ttps://isa56.github.io/guia-do-dcc/" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
