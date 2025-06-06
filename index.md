@@ -1,37 +1,66 @@
 ---
 title: Início
 layout: home
+nav_order: 1
 ---
 
-Teste de edição desse arquivo :)
+# O início
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+> **O Guia do DCC é um site notável.**
+>  Ele é mais acessado que a planilha de horários do SIGA e mais confiável que o elevador do ICE.
+>  Em muitas das salas mais confusas do prédio novo, ele já substituiu o desespero como principal fonte de orientação.
+>  Embora não contenha todas as respostas (ainda), ele é conhecido por ter pelo menos alguma ideia de onde fica a sala Lab DCC01.
+>  E o mais importante: tem as palavras "Não entre em pânico".
+>
+> -- <cite>Adaptado de O Guia do Mochileiro das Galáxias, Douglas Adams</cite>
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+[[Site em construção]]
 
-More specifically, the created site:
+Este site é uma wiki focada no Departamento de Ciências da Computação da Universidade Federal de Juiz de Fora.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+A ideia principal é trazer informações que não estão facilmente disponíveis no site do departamento, ou que em geral descobrimos durante o curso. Ou seja, esse é o seu Guia de Sobrevivência para a faculdade!
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Se você é calouro, este é o lugar onde você vai encontrar os guias dos veteranos - o que fazer, o que não fazer e onde achar ajuda.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Este Guia, no momento, é focado nos cursos presenciais da cidade de Juiz de Fora (único campus da UFJF onde temos o DCC). Porém, queremos adicionar uma seção para o curso de Licenciatura em Ciência da Computação. Se você puder ajudar, [contribua](https://github.com/isa56/guia-do-dcc/)!
 
-To get started with creating a site, simply:
+## O que este Guia contém
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- Informações básicas sobre os cursos;
+- Informações sobre o departamento, professores, processos e projetos;
+- Links úteis para estudos, materiais úteis e etc.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Onde estão os outros alunos do curso?
 
-----
+A maior parte da comunicação entre os alunos acontece no grupo de WhatsApp do departamento, mantido pelo D.A. (Diretório Acadêmico). Para ingressar, você precisa responder ao [formulário](https://docs.google.com/forms/d/e/1FAIpQLSe4Mtgjflnwm7OQDVdHHdY6LmEF7K-gFIghbHrJ4Rc1RDq4dQ/viewform?usp=sf_link).
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Além disso, existe uma [comunidade no Discord](https://discord.gg/KsMgQRP), apesar de ela não ser muito utilizada.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Okay, pra onde eu vou agora?
+
+Recomendamos que você dê uma lida na página [Informações Básicas](/informacoes-basicas). Ali, você vai encontrar uma descrição dos cursos, de como chegar na UFJF e no ICE (Instituto de Ciências Exatas) e no 
+
+## Quem escreveu este belo Guia? Posso ajudar a torná-lo melhor?
+
+A pessoa mochileira responsável por começar a escrever este Guia foi [Isadora Gonçalves](https://github.com/isa56/).
+
+Outros contribuidores são:
+- Nenhum até agora :(
+
+Se quiser ajudar na construção dO Guia, acesse [nosso repositório](https://github.com/isa56/guia-do-dcc/), dê uma estrelinha e abra uma Issue ou uma PR.
+
+## Links úteis
+
+- [Site do departamento](https://www2.ufjf.br/deptocomputacao/);
+- Sites dos cursos:
+  - [Ciência da Computação (integral e Noturno)](https://www2.ufjf.br/cursocomputacao/);
+  - [Engenharia Computacional](https://www2.ufjf.br/engcomputacional/);
+  - [Sistemas de Informação](https://www2.ufjf.br/si/curso/ppc/);
+- Projetos Pedagógicos dos cursos:
+  - [Ciência da Computação (Integral e Noturno)](https://www2.ufjf.br/cursocomputacao/sobre-o-curso/projeto-pedagogico/);
+  - [Engenharia Computacional](https://www2.ufjf.br/engcomputacional/sobre-o-curso/projeto-pedagogico/);
+  - [Sistemas de Informação](https://www2.ufjf.br/si/curso/ppc/).
+- [Drive com materiais do ICE](https://abrir.link/RPoHX);
+  - Para pedir a adição de alguma informação no drive, use o seguinte [formulário](https://forms.gle/uzEgeQWjcWXfRBvT7);
+- [Grupos de WhatsApp das turmas](https://docs.google.com/document/d/1f9TGtptrs6z8H0kIWYkKBD1vw2bp0IjsgUE60bWgVuQ/edit?usp=sharing);
+- [Planos de curso](https://drive.google.com/drive/folders/18up4G92i7uMFWgdCalbvPD52SIie8Ufv).
